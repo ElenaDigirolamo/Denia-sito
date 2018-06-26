@@ -45,6 +45,54 @@ ul#menu a:hover, ul#menu a:active {
 color:#DCDCDC;}
 
 
+
+
+ul#menu ul {
+  width: 150px;
+	margin:5px 0 0;
+	padding:10px;
+	display:inline-block;
+	list-style: none;
+	opacity: 0;
+	visibility: hidden;
+	position: absolute;
+	top: 30px;
+	left: 155px;
+	z-index:9999;
+	background: white;
+  text-align:left;
+}
+
+ul#menu li:hover ul {
+	opacity: 1;
+	visibility: visible;
+
+}
+
+ul#menu ul li {
+	float: none;
+	display: block;
+	border: 0;
+}
+
+ul#menu ul a {
+	padding:10px;
+	width: 150px;
+  left: 0px;
+	display: block;
+	white-space: nowrap;
+  text-align:left;
+}
+
+ul#menu ul a:hover {
+	background-color: #0186ba;
+	color:#fff;
+  text-align:left;
+  left:0px;
+  width: 130px;
+  padding: 10px;
+}
+
 a:visited {
     color:black;
     font-style: normal;
