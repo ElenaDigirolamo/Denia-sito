@@ -192,6 +192,8 @@ a:hover {color: #aaa}
       font-size: 15px; color: white;font-family: calibri light}
 .contatti_bassi5 {position: absolute; top:850px; background-color:#696969; height:130px; width: 100%;
             font-size: 15px; color: white;font-family: calibri light}
+.contatti_bassi6 {position: absolute; top:630px; background-color:#696969; height:130px; width: 100%;
+                        font-size: 15px; color: white;font-family: calibri light}
 
 
 .rett_grigio{background-color: #DCDCDC; position: absolute; top:180px;width: 100vw; height:110px;}
