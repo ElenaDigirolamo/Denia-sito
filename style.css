@@ -139,6 +139,7 @@ ul#menu ul a:hover {
 
 .img {width: 17%;height: 34%; position:absolute;top: 2110px}
 .img0 {width: 17%;height: 34%; position:absolute;top: 550px}
+.img1 {width: 17%;height: 34%; position:absolute;top: 1000px}
 .left_1{position: absolute;left: 170px}
 .left_2{position: absolute;left:475px}
 .right_1{position: absolute;right:475px}
@@ -147,6 +148,7 @@ ul#menu ul a:hover {
 .tit {font-size:22px; color:#007EB6;font-family: calibri}
 .text {top: 2400px; font-family: calibri light; font-size:15px;width:17%; text-align: justify; line-height:23px; color:#aaa}
 .text0 {top: 850px; font-family: calibri light; font-size:15px;width:17%; text-align: justify; line-height:23px; color:#aaa}
+.text1 {top: 1300px; font-family: calibri light; font-size:15px;width:17%; text-align: justify; line-height:23px; color:#aaa}
 .FINESTRE{position: absolute;left: 170px; }
 .P_INTERNE {position: absolute;left:475px}
 .P_ESTERNE {position: absolute;right: 475px}
