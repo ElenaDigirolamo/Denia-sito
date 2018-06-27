@@ -205,7 +205,7 @@ a:hover {color: #aaa}
 .testo {font-family: calibri light; color: black; position:absolute;width:450px; top: 330px; text-align: justify;left: 170px; line-height: 26px; page-break-inside: auto;}
 .sottotitolo {font-size: 22px; color:#007EB6; font-weight: bold;font-family: calibri}
 .imm_dx {position: absolute;right:180px; width: 40%; height: auto; top:350px}
-b {font-family: Calibri Bold;color: #696969; font-weight: bold;}
+b {font-family:calibri;color: #696969; font-weight: bold;}
 .rett_nero {background-color:black; position: absolute; top:880px;width: 100vw; height:130px;}
 .tit_nero {font-family: calibri; font-size: 35px; color: #696969; position: absolute; left:50%; top: -5px;text-align: center;transform: translate(-50%);width: 100vw}
 .sott_nero {font-size: 22px; color:#696969; font-family: calibri; text-align: center;top: 60px; position: absolute; left:50%; transform: translate(-50%);}
