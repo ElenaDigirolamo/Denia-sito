@@ -169,6 +169,7 @@ a:hover {color: #aaa}
 
 
 .rettangolo_4 {position: absolute;top:3090px;background-color:#DCDCDC; width: 100%; height:300px}
+.rettangolo_5 {position: absolute;top:550px;background-color:#DCDCDC; width: 100%; height:300px}
 .sic {position: absolute; font-family: calibri light; font-size: 15px; color: #696969; left: 170px; top: 30px;
    width:210px;text-align: justify; line-height:25px}
 .titolini {font-size: 20px; color:black; text-align: left;font-weight: bold; line-height: 40px}
@@ -189,6 +190,8 @@ a:hover {color: #aaa}
     font-size: 15px; color: white;font-family: calibri light}
 .contatti_bassi4 {position: absolute; top:1150px; background-color:#696969; height:130px; width: 100%;
       font-size: 15px; color: white;font-family: calibri light}
+.contatti_bassi5 {position: absolute; top:850px; background-color:#696969; height:130px; width: 100%;
+            font-size: 15px; color: white;font-family: calibri light}
 
 
 .rett_grigio{background-color: #DCDCDC; position: absolute; top:180px;width: 100vw; height:110px;}
