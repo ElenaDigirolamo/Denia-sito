@@ -151,7 +151,9 @@ ul#menu ul a:hover {
 .P_INTERNE {position: absolute;left:475px}
 .P_ESTERNE {position: absolute;right: 475px}
 .ALTRI {position: absolute;right: 170px}
-.button {font-family: calibri;position: absolute;top:170px;font-weight: bold; color: black}
+.button {font-family: calibri;position: absolute;top:170px;font-weight: bold; color: black;text-decoration: none;}
+a {text-decoration: none; color: black}
+a:hover {color: #aaa}
 
 
 .rettangolo_2 {position:absolute; top: 2690px;background-color: #aaa;width: 100vw;height:200px}
