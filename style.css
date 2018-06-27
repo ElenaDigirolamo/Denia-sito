@@ -213,3 +213,5 @@ b {font-family:calibri;color: #696969; font-weight: bold;}
 .banner {position: absolute;left: 50%; transform: translate(-50%);top: 500px}
 .testo_3 {font-family: calibri light; color: black; position:absolute;width:1200px; top: 350px; text-align: justify;left: 170px; line-height: 20px;font-size:17px;}
 .persona {font-size:20px; color:#007EB6;font-family: calibri; text-align: left;}
+.testo_5 {font-family: calibri light; color: black; position:absolute;width:550px; top: 350px; text-align: justify;left: 170px; line-height: 20px;font-size:17px;}
+.testo_6 {font-family: calibri light; color: black; position:absolute;width:550px; top: 350px; text-align: justify;right: 170px; line-height: 20px;font-size:17px;}
