@@ -178,9 +178,10 @@ ul#menu ul a:hover {
 .indirizzo {position: absolute;text-align: left; left: 50%; transform: translate(-50%); top:20%}
 .tel {position: absolute;right: 170px; top:20%}
 .mail {position: absolute;right:170px; top:50%}
-.contatti_bassi_2 {position: absolute; top:890px; background-color:#696969; height:130px; width: 100%; left: 0;
-  font-size: 15px; color: white;font-family: calibri light}
-
+.contatti_bassi2 {position: absolute; top:1890px; background-color:#696969; height:130px; width: 100%;
+    font-size: 15px; color: white;font-family: calibri light}
+  .contatti_bassi3 {position: absolute; top:2250px; background-color:#696969; height:130px; width: 100%;
+    font-size: 15px; color: white;font-family: calibri light}
 
 
 .rett_grigio{background-color: #DCDCDC; position: absolute; top:180px;width: 100vw; height:110px;}
@@ -192,5 +193,7 @@ b {font-family: calibri bold;color: #696969}
 .rett_nero {background-color:black; position: absolute; top:880px;width: 100vw; height:130px;}
 .tit_nero {font-family: calibri; font-size: 35px; color: #696969; position: absolute; left:50%; top: -5px;text-align: center;transform: translate(-50%);width: 100vw}
 .sott_nero {font-size: 22px; color:#696969; font-family: calibri; text-align: center;top: 60px; position: absolute; left:50%; transform: translate(-50%);}
-.testo_2 {font-family: calibri light; color: black; position:absolute;width:1200px; top: 1050px; text-align: justify;left: 170px; line-height: 26px; page-break-inside: auto;}
+.testo_2 {font-family: calibri light; color: black; position:absolute;width:1200px; top: 1050px; text-align: justify;left: 170px; line-height: 26px;}
 .banner {position: absolute;left: 50%; transform: translate(-50%);top: 500px}
+.testo_3 {font-family: calibri light; color: black; position:absolute;width:1200px; top: 350px; text-align: justify;left: 170px; line-height: 20px;font-size:17px;}
+.persona {font-size:20px; color:#007EB6;font-family: calibri; text-align: left;}
