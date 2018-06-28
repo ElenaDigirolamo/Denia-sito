@@ -160,19 +160,19 @@ a {text-decoration: none; color: black}
 a:hover {color: #aaa}
 
 
-.rettangolo_2 {position:absolute; top: 2690px;background-color: #aaa;width: 100vw;height:200px}
-.promozioni{ position: absolute; top:10px; font-family: calibri;color: white; left:170px;font-size:21px;width:46%; line-height:22px;text-align:justify}
+.rettangolo_2 {position:absolute; top: 350%;background-color: #aaa;width: 100%;height:200px}
+.promozioni{ position: absolute; top:2%; font-family: calibri;color: white; left:11%;font-size:21px;width:46%; line-height:22px;text-align:justify}
 .big {font-size:35px;font-weight: bold;transform: translate(0,+70%);}
 .butt {background-color: #DCDCDC;font-family: calibri;color:white;line-height:20px; width:170px;text-align: center;font-size:18px}
-.uno{position: absolute; right:170px; top:30px}
-.due {position: absolute; right:170px; top:110px}
+.uno{position: absolute; right:11%; top:15%}
+.due {position: absolute; right:11%; top:55%}
 
 
-.rettangolo_3 {position: absolute; top:2890px; background-color:#007EB6; width: 100vw; height: 200px}
+.rettangolo_3 {position: absolute; top:376%; background-color:#007EB6; width: 100%; height: 200px}
 .ti_segue {position: absolute; left:50%;font-family: calibri; color: white; font-size: 21px;text-align: center; width: 100%; transform: translate(-50%);}
 
 
-.rettangolo_4 {position: absolute;top:3090px;background-color:#DCDCDC; width: 100%; height:300px}
+.rettangolo_4 {position: absolute;top:402%;background-color:#DCDCDC; width: 100%; height:300px}
 .rettangolo_5 {position: absolute;top:550px;background-color:#DCDCDC; width: 100%; height:300px}
 .sic {position: absolute; font-family: calibri light; font-size: 15px; color: #696969; left: 170px; top: 30px;
    width:210px;text-align: justify; line-height:25px}
