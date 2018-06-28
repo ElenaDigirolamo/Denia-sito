@@ -1,3 +1,5 @@
+
+
 .contact {font-family: calibri light; font-size: 18; color:#007EB6; position: absolute; left:120px; top: 0.1%;}
 ul#contact li {
     display: inline;
@@ -182,10 +184,10 @@ a:hover {color: #aaa}
 
 .contatti_bassi {position: absolute; top:3390px; background-color:#696969; height:130px; width: 100%;
   font-size: 15px; color: white;font-family: calibri light}
-.nome {position: absolute;left: 170px; top: 20%; font-weight:bold; font-size: 20px}
+.nome {position: absolute;left: 10%; top: 20%; font-weight:bold; font-size: 20px}
 .indirizzo {position: absolute;text-align: left; left: 50%; transform: translate(-50%); top:20%}
-.tel {position: absolute;right: 170px; top:20%}
-.mail {position: absolute;right:170px; top:50%}
+.tel {position: absolute;right: 10%; top:20%}
+.mail {position: absolute;right:10%; top:50%}
 .contatti_bassi2 {position: absolute; top:1890px; background-color:#696969; height:130px; width: 100%;
     font-size: 15px; color: white;font-family: calibri light}
 .contatti_bassi3 {position: absolute; top:2250px; background-color:#696969; height:130px; width: 100%;
@@ -211,7 +213,7 @@ b {font-family:calibri;color: #696969; font-weight: bold;}
 .sott_nero {font-size: 22px; color:#696969; font-family: calibri; text-align: center;top: 60px; position: absolute; left:50%; transform: translate(-50%);}
 .testo_2 {font-family: calibri light; color: black; position:absolute;width:1200px; top: 1050px; text-align: justify;left: 170px; line-height: 26px;}
 .banner {position: absolute;left: 50%; transform: translate(-50%);top: 500px}
-.testo_3 {font-family: calibri light; color: black; position:absolute;width:1200px; top: 350px; text-align: justify;left: 170px; line-height: 20px;font-size:17px;}
+.testo_3 {font-family: calibri light; color: black; position:absolute;width:80%; top: 350px; text-align: justify;left: 170px; line-height: 20px;font-size:17px;}
 .persona {font-size:20px; color:#007EB6;font-family: calibri; text-align: left;}
 .testo_5 {font-family: calibri light; color: black; position:absolute;width:550px; top: 350px; text-align: justify;left: 170px; line-height: 20px;font-size:17px;}
 .testo_6 {font-family: calibri light; color: black; position:absolute;width:550px; top: 350px; text-align: justify;right: 170px; line-height: 20px;font-size:17px;}
