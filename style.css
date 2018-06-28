@@ -188,17 +188,17 @@ a:hover {color: #aaa}
 .indirizzo {position: absolute;text-align: left; left: 50%; transform: translate(-50%); top:20%}
 .tel {position: absolute;right: 10%; top:20%}
 .mail {position: absolute;right:10%; top:50%}
-.contatti_bassi2 {position: absolute; top:1890px; background-color:#696969; height:130px; width: 100%;
+.contatti_bassi2 {position: absolute; top:240%; background-color:#696969; height:130px; width: 100%;
     font-size: 15px; color: white;font-family: calibri light}
-.contatti_bassi3 {position: absolute; top:2250px; background-color:#696969; height:130px; width: 100%;
+.contatti_bassi3 {position: absolute; top:300%; background-color:#696969; height:130px; width: 100%;
     font-size: 15px; color: white;font-family: calibri light}
-.contatti_bassi4 {position: absolute; top:1150px; background-color:#696969; height:130px; width: 100%;
+.contatti_bassi4 {position: absolute; top:150%; background-color:#696969; height:130px; width: 100%;
       font-size: 15px; color: white;font-family: calibri light}
-.contatti_bassi5 {position: absolute; top:850px; background-color:#696969; height:130px; width: 100%;
+.contatti_bassi5 {position: absolute; top:110%; background-color:#696969; height:130px; width: 100%;
             font-size: 15px; color: white;font-family: calibri light}
-.contatti_bassi6 {position: absolute; top:630px; background-color:#696969; height:130px; width: 100%;
+.contatti_bassi6 {position: absolute; bottom:0%; background-color:#696969; height:130px; width: 100%;
                         font-size: 15px; color: white;font-family: calibri light}
-.contatti_bassi7 {position: absolute; top:1430px; background-color:#696969; height:130px; width: 100%;
+.contatti_bassi7 {position: absolute; top:200%; background-color:#696969; height:130px; width: 100%;
                                                 font-size: 15px; color: white;font-family: calibri light}
 
 
