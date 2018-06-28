@@ -222,9 +222,14 @@ b {font-family:calibri;color: #696969; font-weight: bold;}
 
 
 
-.slide_show {
+.slide_show_cont {
     position: absolute;
     top: 75%;
     left: 50%;
   transform: translate(-50%,0);
 height: 60%}
+
+.fade {    animation-name: fade;
+    animation-duration: 1.5s;}
+
+    
