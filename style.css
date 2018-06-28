@@ -198,7 +198,7 @@ a:hover {color: #aaa}
             font-size: 15px; color: white;font-family: calibri light}
 .contatti_bassi6 {position: absolute; bottom:0%; background-color:#696969; height:130px; width: 100%;
                         font-size: 15px; color: white;font-family: calibri light}
-.contatti_bassi7 {position: absolute; top:200%; background-color:#696969; height:130px; width: 100%;
+.contatti_bassi7 {position: absolute; top:170%; background-color:#696969; height:130px; width: 100%;
                                                 font-size: 15px; color: white;font-family: calibri light}
 
 
@@ -222,9 +222,9 @@ b {font-family:calibri;color: #696969; font-weight: bold;}
 
 
 
-.slide_show {    width: 900px;
+.slide_show {
     position: absolute;
-    margin: auto;
-    top: 600px;
+    top: 75%;
     left: 50%;
-  transform: translate(-50%);}
+  transform: translate(-50%,0);
+height: 60%}
