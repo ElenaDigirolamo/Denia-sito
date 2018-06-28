@@ -10,7 +10,7 @@ ul#contact li {
     float: left;
 }
 .linea {height: 1px; width: 100%; position: absolute;top:7%; background-color: #DCDCDC;}
-.drop-menu {position: absolute; left: 620px; top: 5vh;}
+.drop-menu {position: absolute; left: 43%; top: 5vh;}
 
 body{
 	font-size:18px;
@@ -106,7 +106,7 @@ ul#menu ul a:hover {
 
 .foto-grande {
 	position: absolute;
-	top:175px;
+	top:22%;
 	left: 50%;
 	width: 78%;;
 	height: 100%;
@@ -124,28 +124,28 @@ ul#menu ul a:hover {
 .dx {position: absolute; top: 7%; right:13%; width: 350px;}
 
 .immagine {width: 25%; height: 30%}
-.alto {position: absolute;top: 1147px}
-.sin {position: absolute;left: 170px;}
+.alto {position: absolute;top: 149%}
+.sin {position: absolute;left: 13%;}
 .cen {position: absolute;left: 50%; transform: translate(-50%);}
-.des{position: absolute; right: 170px}
-.centro{position: absolute; top:1378px }
-.basso {position: absolute; top: 1609px}
+.des{position: absolute; right: 13%}
+.centro{position: absolute; top:179% }
+.basso {position: absolute; top: 209%}
 
-.linea_blu {height: 5px; width:100vw; background-color:#007EB6; position: absolute; top:1885px}
+.linea_blu {height: 5px; width:100vw; background-color:#007EB6; position: absolute; top:246%}
 .linea_blu_alta {height: 5px; width:100vw; background-color:#007EB6; position: absolute; top:500px}
 
-.testo_home_basso {position: absolute;top:1920px;width:3000px; transform: translate(-50vw,0);}
+.testo_home_basso {position: absolute;top:250%;width:1200px; transform: translate(-50%,0);left:50%;}
 .titolone{color:#007EB6; font-family:calibri; font-weight: bold; font-size:40px;text-align: center;}
 .sottotitolone {color:#aaa; font-family: calibri; font-size: 22px; text-align:center;transform: translate(0,-130%);}
 
 
-.img {width: 17%;height: 34%; position:absolute;top: 2110px}
+.img {width: 17%;height: 34%; position:absolute;top: 273%}
 .img0 {width: 17%;height: 34%; position:absolute;top: 550px}
 .img1 {width: 17%;height: 34%; position:absolute;top: 1000px}
-.left_1{position: absolute;left: 170px}
-.left_2{position: absolute;left:475px}
-.right_1{position: absolute;right:475px}
-.right_2{position: absolute;right:170px}
+.left_1{position: absolute;left: 11%}
+.left_2{position: absolute;left:31.5%}
+.right_1{position: absolute;right:31.5%}
+.right_2{position: absolute;right:11%}
 
 .tit {font-size:22px; color:#007EB6;font-family: calibri}
 .text {top: 2400px; font-family: calibri light; font-size:15px;width:17%; text-align: justify; line-height:23px; color:#aaa}
