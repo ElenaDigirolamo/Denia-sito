@@ -1,4 +1,4 @@
-.contact {font-family: calibri light; font-size: 18; color:#007EB6; position: absolute; left:8.5%; top: 0.1%;}
+.contact {font-family: calibri light; font-size: 18; color:#007EB6; position: absolute; left:120px; top: 0.1%;}
 ul#contact li {
     display: inline;
     width: 100px;
@@ -8,7 +8,7 @@ ul#contact li {
     float: left;
 }
 .linea {height: 1px; width: 100%; position: absolute;top:7%; background-color: #DCDCDC;}
-.drop-menu {position: absolute; right:-3vw; top: 5vh;}
+.drop-menu {position: absolute; left: 620px; top: 5vh;}
 
 body{
 	font-size:18px;
@@ -21,13 +21,13 @@ body{
 #drop-menu {
 	margin: 0 auto;
 	padding: 0;
-	width: 960px;
+	width: 700px;
 }
 
 /*menu*/
 
 ul#menu {
-	margin:60px 0 0;
+	margin:55px 0 0;
 	padding: 0;
 	list-style: none;
 	float:left;
@@ -47,7 +47,7 @@ ul#menu li {
 
 ul#menu li a {
 	float: left;
-	padding:12px 30px;
+	padding:10px 30px;
 	color:black;
 	text-transform: uppercase;
 	text-decoration:none;
@@ -79,7 +79,7 @@ ul#menu li:hover ul {
 }
 
 ul#menu ul li {
-	float: none;
+	float: left;
 	display: block;
 	border: 0;
 }
@@ -89,7 +89,7 @@ ul#menu ul a {
 	width: 135px;
 	display: block;
 	white-space: nowrap;
-	float: none;
+	float: left;
 	text-transform: none;
   font-size: 16.5px;
   color: #696969;
@@ -99,7 +99,7 @@ ul#menu ul a:hover {
 	background-color: #0186ba;
 	color:white
 }
-.Logo {height:8%; position:absolute; left:11.8%; top:11% }
+.Logo {height:8%; position:absolute; left:170px; top:11% }
 
 
 .foto-grande {
@@ -200,7 +200,7 @@ a:hover {color: #aaa}
                                                 font-size: 15px; color: white;font-family: calibri light}
 
 
-.rett_grigio{background-color: #DCDCDC; position: absolute; top:180px;width: 100vw; height:110px;}
+.rett_grigio{background-color: #DCDCDC; position: absolute; top:180px;width: 100%; height:110px;}
 .titolo_alto {font-family: calibri; font-size: 35px; color: white; position: absolute; left:170px;top: 1px}
 .testo {font-family: calibri light; color: black; position:absolute;width:450px; top: 330px; text-align: justify;left: 170px; line-height: 26px; page-break-inside: auto;}
 .sottotitolo {font-size: 22px; color:#007EB6; font-weight: bold;font-family: calibri}
@@ -217,3 +217,12 @@ b {font-family:calibri;color: #696969; font-weight: bold;}
 .testo_6 {font-family: calibri light; color: black; position:absolute;width:550px; top: 350px; text-align: justify;right: 170px; line-height: 20px;font-size:17px;}
 .testo_7 {font-family: calibri light; color: black; position:absolute;width:550px; top: 650px; text-align: justify;left:  170px; line-height: 20px;font-size:17px;}
 .testo_8 {font-family: calibri light; color: black; position:absolute;width:550px; top:650px; text-align: justify;right: 170px; line-height: 20px;font-size:17px;}
+
+
+
+.slide_show {    width: 900px;
+    position: absolute;
+    margin: auto;
+    top: 600px;
+    left: 50%;
+  transform: translate(-50%);}
