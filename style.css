@@ -1,4 +1,6 @@
-
+html {
+overflow-x: hidden;
+}
 
 .contact {font-family: calibri light; font-size: 18; color:#007EB6; position: absolute; left:120px; top: 0.1%;}
 ul#contact li {
@@ -9,7 +11,7 @@ ul#contact li {
     margin: 2px;
     float: left;
 }
-.linea {height: 1px; width: 100%; position: absolute;top:7%; background-color: #DCDCDC;}
+.linea {height: 1px; width: 100%; position: absolute;top:9%; background-color: #DCDCDC;}
 .drop-menu {position: absolute; left: 43%; top: 5vh;}
 
 body{
@@ -119,19 +121,19 @@ ul#menu ul a:hover {
 .titoli {font-family: calibri;font-weight: bold;font-size: 25px; color:white;align-content: center;}
 .testo_home {font-family: calibri light; font-size: 15px; color:white; line-height: 25px; text-align: justify;
 }
-.sx {position: absolute; top: 7%; left:12%; width: 350px;}
-.c {position: absolute; top: 7%; left: 50%; width: 350px;transform: translate(-50%);}
-.dx {position: absolute; top: 7%; right:13%; width: 350px;}
+.sx {position: absolute; top: 7%; left:12%; width: 22%;}
+.c {position: absolute; top: 7%; left: 50%; width: 22%;transform: translate(-50%);}
+.dx {position: absolute; top: 7%; right:13%; width: 22%;}
 
 .immagine {width: 25%; height: 30%}
-.alto {position: absolute;top: 149%}
+.alto {position: absolute;top: 157%}
 .sin {position: absolute;left: 13%;}
 .cen {position: absolute;left: 50%; transform: translate(-50%);}
 .des{position: absolute; right: 13%}
-.centro{position: absolute; top:179% }
-.basso {position: absolute; top: 209%}
+.centro{position: absolute; top:187% }
+.basso {position: absolute; top: 217%}
 
-.linea_blu {height: 5px; width:100vw; background-color:#007EB6; position: absolute; top:246%}
+.linea_blu {height: 5px; width:100vw; background-color:#007EB6; position: absolute; top:252%}
 .linea_blu_alta {height: 5px; width:100vw; background-color:#007EB6; position: absolute; top:66%}
 
 .testo_home_basso {position: absolute;top:250%;width:1200px; transform: translate(-50%,0);left:50%;}
@@ -160,7 +162,7 @@ a {text-decoration: none; color: black}
 a:hover {color: #aaa}
 
 
-.rettangolo_2 {position:absolute; top: 350%;background-color: #aaa;width: 100%;height:200px}
+.rettangolo_2 {position:absolute; top: 348%;background-color: #aaa;width: 100%;height:200px}
 .promozioni{ position: absolute; top:2%; font-family: calibri;color: white; left:11%;font-size:21px;width:46%; line-height:22px;text-align:justify}
 .big {font-size:35px;font-weight: bold;transform: translate(0,+70%);}
 .butt {background-color: #DCDCDC;font-family: calibri;color:white;line-height:20px; width:170px;text-align: center;font-size:18px}
@@ -168,11 +170,11 @@ a:hover {color: #aaa}
 .due {position: absolute; right:11%; top:55%}
 
 
-.rettangolo_3 {position: absolute; top:376%; background-color:#007EB6; width: 100%; height: 200px}
+.rettangolo_3 {position: absolute; top:379%; background-color:#007EB6; width: 100%; height: 200px}
 .ti_segue {position: absolute; left:50%;font-family: calibri; color: white; font-size: 21px;text-align: center; width: 100%; transform: translate(-50%);}
 
 
-.rettangolo_4 {position: absolute;top:402%;background-color:#DCDCDC; width: 100%; height:300px}
+.rettangolo_4 {position: absolute;top:409%;background-color:#DCDCDC; width: 100%; height:300px}
 .rettangolo_5 {position: absolute;top:550px;background-color:#DCDCDC; width: 100%; height:300px}
 .sic {position: absolute; font-family: calibri light; font-size: 15px; color: #696969; left: 170px; top: 30px;
    width:210px;text-align: justify; line-height:25px}
@@ -182,38 +184,38 @@ a:hover {color: #aaa}
 .ag {position: absolute; top:30px;right:170px;font-family: calibri light;
   font-size: 15px;width:260px;text-align: justify; line-height:25px ; color: #696969}
 
-.contatti_bassi {position: absolute; top:440%; background-color:#696969; height:130px; width: 100%;
+.contatti_bassi {position: absolute; top:453%; background-color:#696969; height:15%; width: 100%;
   font-size: 15px; color: white;font-family: calibri light}
-.nome {position: absolute;left: 10%; top: 20%; font-weight:bold; font-size: 20px}
-.indirizzo {position: absolute;text-align: left; left: 50%; transform: translate(-50%); top:20%}
-.tel {position: absolute;right: 10%; top:20%}
-.mail {position: absolute;right:10%; top:50%}
-.contatti_bassi2 {position: absolute; top:240%; background-color:#696969; height:130px; width: 100%;
+.nome {position: absolute;left: 10%; top: 10%; font-weight:bold; font-size: 20px}
+.indirizzo {position: absolute;text-align: left; left: 50%; transform: translate(-50%); top:10%}
+.tel {position: absolute;right: 10%; top:10%}
+.mail {position: absolute;right:10%; top:40%}
+.contatti_bassi2 {position: absolute; top:260%; background-color:#696969; height:15%; width: 100%;
     font-size: 15px; color: white;font-family: calibri light}
-.contatti_bassi3 {position: absolute; top:300%; background-color:#696969; height:130px; width: 100%;
+.contatti_bassi3 {position: absolute; top:355%; background-color:#696969; height:15%; width: 100%;
     font-size: 15px; color: white;font-family: calibri light}
-.contatti_bassi4 {position: absolute; top:150%; background-color:#696969; height:130px; width: 100%;
+.contatti_bassi4 {position: absolute; top:185%; background-color:#696969; height:15%; width: 100%;
       font-size: 15px; color: white;font-family: calibri light}
-.contatti_bassi5 {position: absolute; top:110%; background-color:#696969; height:130px; width: 100%;
+.contatti_bassi5 {position: absolute; top:120%; background-color:#696969; height:15%; width: 100%;
             font-size: 15px; color: white;font-family: calibri light}
-.contatti_bassi6 {position: absolute; bottom:0%; background-color:#696969; height:130px; width: 100%;
+.contatti_bassi6 {position: absolute; bottom:0%; background-color:#696969; height:15%; width: 100%;
                         font-size: 15px; color: white;font-family: calibri light}
-.contatti_bassi7 {position: absolute; top:170%; background-color:#696969; height:130px; width: 100%;
+.contatti_bassi7 {position: absolute; top:190%; background-color:#696969; height:15%; width: 100%;
                                                 font-size: 15px; color: white;font-family: calibri light}
 
 
 .rett_grigio{background-color: #DCDCDC; position: absolute; top:22%;width: 100%; height:110px;}
-.titolo_alto {font-family: calibri; font-size: 35px; color: white; position: absolute; left:170px;top: 1px}
-.testo {font-family: calibri light; color: black; position:absolute;width:450px; top: 330px; text-align: justify;left: 170px; line-height: 26px; page-break-inside: auto;}
+.titolo_alto {font-family: calibri; font-size: 35px; color: white; position: absolute; left:11%;top: 1px}
+.testo {font-family: calibri light; color: black; position:absolute;width:33%; top: 42%; text-align: justify;left: 11%; line-height: 26px; page-break-inside: auto;}
 .sottotitolo {font-size: 22px; color:#007EB6; font-weight: bold;font-family: calibri}
-.imm_dx {position: absolute;right:180px; width: 40%; height: auto; top:350px}
+.imm_dx {position: absolute;right:11%; width: 40%; height: auto; top:45%}
 b {font-family:calibri;color: #696969; font-weight: bold;}
 .rett_nero {background-color:black; position: absolute; top:120%;width: 100vw; height:130px;}
 .tit_nero {font-family: calibri; font-size: 35px; color: #696969; position: absolute; left:50%; top: -5px;text-align: center;transform: translate(-50%);width: 100vw}
 .sott_nero {font-size: 22px; color:#696969; font-family: calibri; text-align: center;top: 60px; position: absolute; left:50%; transform: translate(-50%);}
-.testo_2 {font-family: calibri light; color: black; position:absolute;width:80%; top: 140%; text-align: justify;left: 170px; line-height: 26px;}
-.banner {position: absolute;left: 50%; transform: translate(-50%);top: 500px; width:110%}
-.testo_3 {font-family: calibri light; color: black; position:absolute;width:80%; top: 47%; text-align: justify;left: 170px; line-height: 20px;font-size:17px;}
+.testo_2 {font-family: calibri light; color: black; position:absolute;width:80%; top: 140%; text-align: justify;left: 11%; line-height: 26px;}
+.banner {position: absolute;left: 50%; transform: translate(-50%);top: 103%; width:100%}
+.testo_3 {font-family: calibri light; color: black; position:absolute;width:80%; top: 47%; text-align: justify;left: 11%; line-height: 20px;font-size:17px;}
 .persona {font-size:20px; color:#007EB6;font-family: calibri; text-align: left;}
 .testo_5 {font-family: calibri light; color: black; position:absolute;width:37%; top: 50%; text-align: justify;left: 11%; line-height: 20px;font-size:17px;}
 .testo_6 {font-family: calibri light; color: black; position:absolute;width:37%; top: 50%; text-align: justify;right: 11%; line-height: 20px;font-size:17px;}
@@ -230,7 +232,7 @@ b {font-family:calibri;color: #696969; font-weight: bold;}
   margin: auto;
   left: 50%;
   transform: translate(-50%);
-  top:73%;
+  top:78%;
 }
 
 /* Hide the images by default */
