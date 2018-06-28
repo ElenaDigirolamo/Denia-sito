@@ -140,7 +140,7 @@ ul#menu ul a:hover {
 
 
 .img {width: 17%;height: 34%; position:absolute;top: 273%}
-.img0 {width: 17%;height: 34%; position:absolute;top: 550px}
+.img0 {width: 17%;height: 34%; position:absolute;top: 75%}
 .img1 {width: 17%;height: 34%; position:absolute;top: 1000px}
 .left_1{position: absolute;left: 11%}
 .left_2{position: absolute;left:31.5%}
@@ -149,7 +149,7 @@ ul#menu ul a:hover {
 
 .tit {font-size:22px; color:#007EB6;font-family: calibri}
 .text {top: 310%; font-family: calibri light; font-size:15px;width:17%; text-align: justify; line-height:23px; color:#aaa}
-.text0 {top: 850px; font-family: calibri light; font-size:15px;width:17%; text-align: justify; line-height:23px; color:#aaa}
+.text0 {top: 113%; font-family: calibri light; font-size:15px;width:17%; text-align: justify; line-height:23px; color:#aaa}
 .text1 {top: 1300px; font-family: calibri light; font-size:15px;width:17%; text-align: justify; line-height:23px; color:#aaa}
 .FINESTRE{position: absolute;left: 170px; }
 .P_INTERNE {position: absolute;left:475px}
@@ -211,8 +211,8 @@ b {font-family:calibri;color: #696969; font-weight: bold;}
 .rett_nero {background-color:black; position: absolute; top:880px;width: 100vw; height:130px;}
 .tit_nero {font-family: calibri; font-size: 35px; color: #696969; position: absolute; left:50%; top: -5px;text-align: center;transform: translate(-50%);width: 100vw}
 .sott_nero {font-size: 22px; color:#696969; font-family: calibri; text-align: center;top: 60px; position: absolute; left:50%; transform: translate(-50%);}
-.testo_2 {font-family: calibri light; color: black; position:absolute;width:1200px; top: 1050px; text-align: justify;left: 170px; line-height: 26px;}
-.banner {position: absolute;left: 50%; transform: translate(-50%);top: 500px}
+.testo_2 {font-family: calibri light; color: black; position:absolute;width:80%; top: 1050px; text-align: justify;left: 170px; line-height: 26px;}
+.banner {position: absolute;left: 50%; transform: translate(-50%);top: 500px; width:110%}
 .testo_3 {font-family: calibri light; color: black; position:absolute;width:80%; top: 350px; text-align: justify;left: 170px; line-height: 20px;font-size:17px;}
 .persona {font-size:20px; color:#007EB6;font-family: calibri; text-align: left;}
 .testo_5 {font-family: calibri light; color: black; position:absolute;width:550px; top: 350px; text-align: justify;left: 170px; line-height: 20px;font-size:17px;}
