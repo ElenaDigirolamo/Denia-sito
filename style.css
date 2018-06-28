@@ -132,7 +132,7 @@ ul#menu ul a:hover {
 .basso {position: absolute; top: 209%}
 
 .linea_blu {height: 5px; width:100vw; background-color:#007EB6; position: absolute; top:246%}
-.linea_blu_alta {height: 5px; width:100vw; background-color:#007EB6; position: absolute; top:500px}
+.linea_blu_alta {height: 5px; width:100vw; background-color:#007EB6; position: absolute; top:66%}
 
 .testo_home_basso {position: absolute;top:250%;width:1200px; transform: translate(-50%,0);left:50%;}
 .titolone{color:#007EB6; font-family:calibri; font-weight: bold; font-size:40px;text-align: center;}
