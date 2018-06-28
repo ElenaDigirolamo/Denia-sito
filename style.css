@@ -182,7 +182,7 @@ a:hover {color: #aaa}
 .ag {position: absolute; top:30px;right:170px;font-family: calibri light;
   font-size: 15px;width:260px;text-align: justify; line-height:25px ; color: #696969}
 
-.contatti_bassi {position: absolute; top:3390px; background-color:#696969; height:130px; width: 100%;
+.contatti_bassi {position: absolute; top:440%; background-color:#696969; height:130px; width: 100%;
   font-size: 15px; color: white;font-family: calibri light}
 .nome {position: absolute;left: 10%; top: 20%; font-weight:bold; font-size: 20px}
 .indirizzo {position: absolute;text-align: left; left: 50%; transform: translate(-50%); top:20%}
