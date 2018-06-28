@@ -225,12 +225,12 @@ b {font-family:calibri;color: #696969; font-weight: bold;}
 
 /* Slideshow container */
 .slideshow-container {
-  width: 62%;
+  width: 900px;
   position: absolute;
   margin: auto;
   left: 50%;
   transform: translate(-50%);
-  top:77%;
+  top:73%;
 }
 
 /* Hide the images by default */
